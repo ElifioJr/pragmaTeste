@@ -1,5 +1,5 @@
 <h1> Parser log for json in C# 
- img align="center" alt="Elifio-Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ <img align="center" alt="Elifio-Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="Elifio-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </h1>
 <h3> Sistema para leitura do log.txt do jogo Quake Arena 3
